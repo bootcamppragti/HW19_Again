@@ -22,7 +22,7 @@ body{
 
 
 
-header { background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/images/nat.jpg);
+header { background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../images/nat.jpg);
 height: 500px;}
 
 .container{
@@ -199,7 +199,7 @@ footer{
 
 section.freelancer{
   text-align:center;
-  background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/images/section.jpg);
+  background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/section.jpg);
   color:var(--pure);
   padding-bottom:6rem;
   

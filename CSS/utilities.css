@@ -1,0 +1,21 @@
+.flex{
+  display:flex;
+}
+
+.flex-1{
+  flex:1;
+}
+
+.items-center{
+  align-items:center;
+}
+
+.justify-between{
+  justify-content: space-between;
+}
+
+.btn{
+  padding:0.8rem 2rem;
+  font-size:1rem;
+  font-weight:600;
+}
